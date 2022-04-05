@@ -7,7 +7,8 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gladistory&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gladistory&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gladistory&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Tecnologias que eu uso no meu dia-dia
@@ -25,6 +26,5 @@
     <img align="center" alt="Heroku" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gladistory&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Apaixonado por tecnologia, ciência e uso da programação para solucionar problemas e facilitar a vida.
