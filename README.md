@@ -24,6 +24,7 @@
     <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
     <img align="center" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
     <img align="center" alt="Heroku" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img align="center" alt="git" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width='30px'/>
 </div><br/>
 
 
