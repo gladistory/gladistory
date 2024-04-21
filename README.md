@@ -28,4 +28,4 @@
 </div><br/>
 
 
-Apaixonado por tecnologia, ciência e uso da programação para solucionar problemas e facilitar a vida.
+Apaixonado por tecnologia, ciência e uso da programação para solucionar problemas.
