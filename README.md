@@ -5,8 +5,8 @@ Químico Industrial em transição para a área de Tecnologia, atuando como Dese
 ## Projetos Desenvolvidos
 
 [API RESTfull para criação de tarefas](https://github.com/gladistory/api-easyTask) - API criada com Node.js, Express com Typescript, conectada a um banco de dados MySQL.<br/>
-[EasyTask - Ferramenta de Gerenciamento de Tarefas](https://github.com/gladistory/easy-task) - Criada usando o Framework Angular
-[Projeto Final do programa de capacitação em tecnologia](https://github.com/gladistory/sistema-essential-final) - Sistema completo de vendas desenvolvido em PHP, HTML, CSS, JS e AJAX.
+[EasyTask - Ferramenta de Gerenciamento de Tarefas](https://github.com/gladistory/easy-task) - Criada usando o Framework Angular.<br/>
+[Projeto Final do programa de capacitação em tecnologia](https://github.com/gladistory/sistema-essential-final) - MVP de sistema de vendas, desenvolvido em PHP, HTML, CSS, JS e AJAX.
 
 ## 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gladistory&show_icons=true&theme=radical)
