@@ -1,12 +1,6 @@
 ## Vinicius Santos - Full-Stack developer
 
-Químico Industrial em transição para a área de Tecnologia, atuando como Desenvolvedor Full Stack Web. Experiência na criação de APIs RESTful utilizando Node.js e no desenvolvimento de aplicações front-end com o framework Angular. Buscando constantemente aprimorar habilidades e contribuir para projetos inovadores.
-
-## Projetos Desenvolvidos
-
-[API RESTfull para criação de tarefas](https://github.com/gladistory/api-easyTask) - API criada com Node.js, Express com Typescript, conectada a um banco de dados MySQL.<br/>
-[EasyTask - Ferramenta de Gerenciamento de Tarefas](https://github.com/gladistory/easy-task) - Criada usando o Framework Angular.<br/>
-[Projeto Final do programa de capacitação em tecnologia](https://github.com/gladistory/sistema-essential-final) - MVP de sistema de vendas, desenvolvido em PHP, HTML, CSS, JS e AJAX.
+Bacharel em Química Tecnológica, em transição para a área de Desenvolvimento de Softaware, atuando como Desenvolvedor Full Stack jr.
 
 ## 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gladistory&show_icons=true&theme=radical)
