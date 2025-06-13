@@ -1,4 +1,4 @@
-## Vinicius Santos - Full-Stack developer
+## Vinicius Santos - Full-Stack Developer Jr
 
 Bacharel em Química Tecnológica, em transição para a área de Desenvolvimento de Softaware, atuando como Desenvolvedor Full Stack jr.
 
